@@ -1,0 +1,16 @@
+{
+  "name": "ab/phpmvc-framework",
+  "authors": [
+    {
+      "name": "Akhmadov",
+      "email": "akhmadovdev@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "app\\": "./"
+    }
+  },
+  "require": {}
+}
+   
